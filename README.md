@@ -14,6 +14,11 @@ Welcome to the repository for my InternPE internship tasks! This repository cont
 1. Task 1: Calculator
    - Description: Simple Calculator WebApp.
    - Technologies used: HTML, CSS, JAVASCRIPT.
+   
+2. Task 2: Ecommerce Website
+   - Description: fully functional e-commerce website from scratch using HTML, CSS, and Vanilla JavaScript..
+   - Technologies used: HTML, CSS, JAVASCRIPT.
+
 
 ## Additional Information
 
