@@ -34,5 +34,3 @@ If you have any questions, feedback, or would like to get in touch with me, plea
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pandeyankur1324/)
 
 Thank you for visiting this repository and for your interest in my InternPE internship tasks!
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
