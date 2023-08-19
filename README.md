@@ -18,6 +18,10 @@ Welcome to the repository for my InternPE internship tasks! This repository cont
 2. Task 2: Ecommerce Website
    - Description: fully functional e-commerce website from scratch using HTML, CSS, and Vanilla JavaScript..
    - Technologies used: HTML, CSS, JAVASCRIPT.
+   
+3. Task 3: ToDo List
+   - Description: A To-Do List website built from scratch using HTML, CSS, and vanilla JavaScript! 
+   - Technologies used: HTML, CSS, JAVASCRIPT.
 
 
 ## Additional Information
